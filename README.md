@@ -3,13 +3,21 @@
 Welcome to my GitHub profile! 🚀  
 I’m a passionate **Data Science Enthusiast** and improving my coding skills across multiple languages and domains.
 
----
+
+
 
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently Learning **Data Science**  
 - 💻 I love working on **Python**, **SQL**, **Machine Learning**, and **Jupyter Notebooks**  
 - 🌱 I’m continually learning new technologies and improving my skills   
+
+
+
+
+
+
+
 
 ## 📫 Connect With Me
 
